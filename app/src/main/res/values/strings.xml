@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">201835001</string>
+    <string name="tasks" />
+    <string name="new_task" />
+    <string name="save" />
+    <string name="shopping_lists">Shopping Lists</string>
+    <string name="todo">TODO</string>
+    <string name="shopping_list_app_image">Shopping List App Image</string>
+    <string name="Save">Save</string>
+    <string name="new_food">New Food</string>
+</resources>
